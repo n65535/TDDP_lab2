@@ -1,0 +1,5 @@
+E:\Учеба\Гай\C#\MergeSort\MergeSortTask\MergeSortTask\bin\Release\MergeSortTask.dll
+E:\Учеба\Гай\C#\MergeSort\MergeSortTask\MergeSortTask\bin\Release\MergeSortTask.pdb
+E:\Учеба\Гай\C#\MergeSort\MergeSortTask\MergeSortTask\obj\Release\MergeSortTask.dll
+E:\Учеба\Гай\C#\MergeSort\MergeSortTask\MergeSortTask\obj\Release\MergeSortTask.pdb
+E:\Учеба\Гай\C#\MergeSort\MergeSortTask\MergeSortTask\obj\Release\MergeSortTask.csprojResolveAssemblyReference.cache

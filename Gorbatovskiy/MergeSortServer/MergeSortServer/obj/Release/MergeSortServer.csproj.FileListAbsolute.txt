@@ -1,0 +1,11 @@
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\bin\Release\MergeSortServer.exe.config
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\bin\Release\MergeSortServer.exe
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\bin\Release\MergeSortServer.pdb
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\bin\Release\MergeSortTask.dll
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\bin\Release\MergeSortTask.pdb
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\obj\Release\MergeSortServer.csprojResolveAssemblyReference.cache
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\obj\Release\MergeSortServer.Form1.resources
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\obj\Release\MergeSortServer.Properties.Resources.resources
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\obj\Release\MergeSortServer.csproj.GenerateResource.Cache
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\obj\Release\MergeSortServer.exe
+E:\Учеба\Гай\C#\MergeSort\lab2\MergeSortServer\MergeSortServer\obj\Release\MergeSortServer.pdb
